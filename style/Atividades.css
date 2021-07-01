@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+h2 {
+    padding-left: 10px;
+    color: white;
+    background: linear-gradient(to right,#836FFF 30%, #F0F8FF 70%);
+}
+
+#carouselExampleCaptions {
+   width: 100%;
+   margin: 0 auto;
+   border-radius: 4px;
+}

@@ -1,0 +1,44 @@
+body{
+  background-image: url("/img/luis-vidal-FodEsaNZs48-unsplash.jpg");
+  background-position:initial;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+form {
+    color:white;
+    margin-top: 40px;
+    /* Apenas para centralizar o form na página */
+    margin: 0 auto;
+    width: 400px;
+    /* Para ver as bordas do formulário */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+form {
+    margin-top: 4em;
+}
+
+.form-check-input, .form-check-label{
+    margin-top: 1em;
+}
+
+.form-text {
+    color: white;
+}
+
+.social { 
+    padding-left: 40%;
+    margin-left: 20px;
+    cursor:pointer;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}

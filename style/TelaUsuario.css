@@ -1,0 +1,55 @@
+body {
+    background-image: url("/img/jesper-aggergaard-rA5aJvQ2l6g-unsplash.jpg");
+    background-position:initial;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+
+.card {
+    margin-top: 20px;
+}
+
+h5 {
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    color:black;
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+form p {
+    color: white;
+}
+
+form {
+    color:white;
+    margin: 0 auto;
+    width: 800px;
+    height: 380px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+form { 
+ position: fixed;
+ left: 400px;
+ top: 80px;
+}
+
+button { 
+    margin-top: 10px;
+}

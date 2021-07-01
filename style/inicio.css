@@ -1,0 +1,21 @@
+body {
+    color: #adb5bd;
+    background-image: url("/img/index.jpg");
+    background-position:initial;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+.title { 
+    position: absolute;
+    text-align: center;
+    padding-left: 450px;
+    top: 100px;
+    height: 50px;
+}
+
+button { 
+    margin-top: 340px;
+    width: 200px;
+}
